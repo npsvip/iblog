@@ -2,6 +2,11 @@
 小白也可快速搭建的知识付费博客、社区，支持多主题，自适应，docker一键部署，会员和积分充值，已完成个人支付平台对接
 
 # 前端
+![111](https://github.com/npsvip/iblog/assets/95081538/8fcac2a4-e65a-4b5a-aafd-07d6db4885df)
+
+![222](https://github.com/npsvip/iblog/assets/95081538/46eca638-ab0f-433f-aed1-bf02278fb4f0)
+
+
 ## 多主题
 ![1](https://github.com/npsvip/iblog/assets/95081538/3a3431bf-9608-48d0-9324-489b136dfb01)
 
@@ -37,7 +42,16 @@
 
 <img width="1672" alt="image" src="https://github.com/npsvip/iblog/assets/95081538/4b247e5d-8105-48fa-9f2d-88c4e4630e33">
 
-
+技术选型：
+JDK8
+MySQL
+Spring-boot
+Spring-data-jpa
+Shiro
+Lombok
+Freemarker
+Bootstrap
+SeaJs
 
 # 运行命令
 ```
@@ -65,4 +79,5 @@ H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:./mall
 <a href="https://github.com/npsvip/Hmart" target="_blank">Hmart商城</a>
 
 # 版权信息
+本项目基于 <a href="https://github.com/langhsu/mblog" target="_blank">Mblog</a> 二次开发，感谢作者和相关人员的工作，如有侵权可及时联系本人
 Hmart遵循 MIT License 协议，提供免费使用，请勿用于商业及非法用途,Hmart不承担个人行为的任何违法责任。
