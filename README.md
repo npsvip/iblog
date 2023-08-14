@@ -42,16 +42,16 @@
 
 <img width="1672" alt="image" src="https://github.com/npsvip/iblog/assets/95081538/4b247e5d-8105-48fa-9f2d-88c4e4630e33">
 
-技术选型：
-JDK8
-MySQL
-Spring-boot
-Spring-data-jpa
-Shiro
-Lombok
-Freemarker
-Bootstrap
-SeaJs
+# 技术选型
+<li>JDK8</li>
+<li>MySQL</li>
+<li>Spring-boot</li>
+<li>Spring-data-jpa</li>
+<li>Shiro</li>
+<li>Lombok</li>
+<li>Freemarker</li>
+<li>Bootstrap</li>
+<li>SeaJs</li>
 
 # 运行命令
 ```
@@ -75,7 +75,7 @@ H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:./mall
 目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn" target="_blank">蓝鲸支付</a>
 
 # 相关推荐
-<a href="https://github.com/npsvip/begger" target="_blank">Begger乞讨网</a>
+<a href="https://github.com/npsvip/begger" target="_blank">Begger乞讨网</a><br/>
 <a href="https://github.com/npsvip/Hmart" target="_blank">Hmart商城</a>
 
 # 版权信息
