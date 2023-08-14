@@ -35,20 +35,18 @@
 
 # H2 console
 
-<img width="459" alt="image" src="https://github.com/npsvip/Hmart/assets/95081538/edfa4968-4dd9-48a2-9232-eafe74971caf">
+<img width="1672" alt="image" src="https://github.com/npsvip/iblog/assets/95081538/4b247e5d-8105-48fa-9f2d-88c4e4630e33">
 
-
-<img width="1675" alt="image" src="https://github.com/npsvip/Hmart/assets/95081538/a8decf29-f09c-4285-ac13-a16174ea316f">
 
 
 # 运行命令
 ```
-docker run -d --name mall --restart=always -p 8080:8080 -e console=true -v /opt/logs/mall/:/opt/logs/mall/ aeert/mall:latest
+docker run -d --name iblog --restart=always -p 8080:8080 -e console=true -v /opt/logs/blog/:/opt/logs/blog/ aeert/iblog:latest
 
-# arm请使用 aeert/mall:arm 或 aeert/mall:arm64 镜像
+# arm请使用 aeert/iblog:arm 或 aeert/iblog:arm64 镜像
 
 ```
-日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/mall/<br/>
+日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/blog/<br/>
 H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
 H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db <br/>
 上传文件&nbsp;&nbsp;&nbsp;&nbsp;/opt/file/
@@ -56,8 +54,6 @@ H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db <br/>
 # 访问信息
 体验地址&nbsp;&nbsp;&nbsp;&nbsp;https://mall.zwapi.cn<br/>
 前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
-后端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/admin/<br/>
-后端账户密码&nbsp;&nbsp;随意输入，之后会保存H2数据库<br/>
 H2 console地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/h2<br/>
 H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:./mall
 
@@ -66,6 +62,7 @@ H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:./mall
 
 # 相关推荐
 <a href="https://github.com/npsvip/begger" target="_blank">Begger乞讨网</a>
+<a href="https://github.com/npsvip/Hmart" target="_blank">Hmart商城</a>
 
 # 版权信息
 Hmart遵循 MIT License 协议，提供免费使用，请勿用于商业及非法用途,Hmart不承担个人行为的任何违法责任。
