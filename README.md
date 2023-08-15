@@ -39,6 +39,7 @@
 ![12](https://github.com/npsvip/iblog/assets/95081538/66d44534-3bd3-4376-ae33-902bfb40ae60)
 
 # H2 console
+<img width="462" alt="image" src="https://github.com/npsvip/iblog/assets/95081538/cbd63281-fd2d-4776-9615-1b5296c652f4">
 
 <img width="1672" alt="image" src="https://github.com/npsvip/iblog/assets/95081538/4b247e5d-8105-48fa-9f2d-88c4e4630e33">
 
@@ -70,6 +71,7 @@ H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db <br/>
 前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
 H2 console地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/h2<br/>
 H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:/storage/db_mblog
+H2 账号密码&nbsp;&nbsp;&nbsp;&nbsp;root/root
 
 # 支付平台
 目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn" target="_blank">蓝鲸支付</a>
