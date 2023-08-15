@@ -83,4 +83,4 @@ H2 账号密码&nbsp;&nbsp;&nbsp;&nbsp;root/root
 
 # 版权信息
 本项目基于 <a href="https://github.com/langhsu/mblog" target="_blank">Mblog</a> 二次开发，感谢作者和相关人员的工作，如有侵权可及时联系本人<br/>
-Hmart遵循 MIT License 协议，提供免费使用，请勿用于商业及非法用途,Hmart不承担个人行为的任何违法责任。
+iblog遵循 MIT License 协议，提供免费使用，请勿用于商业及非法用途,iblog不承担个人行为的任何违法责任。
