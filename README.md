@@ -69,7 +69,7 @@ H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/storage/db_mblog.mv.db <br/>
 # 访问信息
 体验地址&nbsp;&nbsp;&nbsp;&nbsp;https://blog.zwapi.cn<br/>
 前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
-管理员账号&nbsp;&nbsp;&nbsp;admin/admin<br/>
+管理员账号&nbsp;&nbsp;&nbsp;admin/12345<br/>
 H2 console地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/h2<br/>
 H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:/storage/db_mblog<br/>
 H2 账号密码&nbsp;&nbsp;&nbsp;&nbsp;root/root
