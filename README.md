@@ -63,14 +63,15 @@ docker run -d --name iblog --restart=always -p 8080:8080 -e console=true -v /opt
 ```
 日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/blog/<br/>
 H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
-H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db <br/>
-上传文件&nbsp;&nbsp;&nbsp;&nbsp;/opt/file/
+H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/storage/db_mblog.mv.db <br/>
+上传文件&nbsp;&nbsp;&nbsp;&nbsp;/storage/
 
 # 访问信息
 体验地址&nbsp;&nbsp;&nbsp;&nbsp;https://blog.zwapi.cn<br/>
 前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
+管理员账号&nbsp;&nbsp;&nbsp;admin/admin<br/>
 H2 console地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/h2<br/>
-H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:/storage/db_mblog
+H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:/storage/db_mblog<br/>
 H2 账号密码&nbsp;&nbsp;&nbsp;&nbsp;root/root
 
 # 支付平台
@@ -81,5 +82,5 @@ H2 账号密码&nbsp;&nbsp;&nbsp;&nbsp;root/root
 <a href="https://github.com/npsvip/Hmart" target="_blank">Hmart商城</a>
 
 # 版权信息
-本项目基于 <a href="https://github.com/langhsu/mblog" target="_blank">Mblog</a> 二次开发，感谢作者和相关人员的工作，如有侵权可及时联系本人
+本项目基于 <a href="https://github.com/langhsu/mblog" target="_blank">Mblog</a> 二次开发，感谢作者和相关人员的工作，如有侵权可及时联系本人<br/>
 Hmart遵循 MIT License 协议，提供免费使用，请勿用于商业及非法用途,Hmart不承担个人行为的任何违法责任。
