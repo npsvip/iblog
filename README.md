@@ -69,7 +69,7 @@ H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db <br/>
 体验地址&nbsp;&nbsp;&nbsp;&nbsp;https://blog.zwapi.cn<br/>
 前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
 H2 console地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/h2<br/>
-H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:storage/db_mblog
+H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:/storage/db_mblog
 
 # 支付平台
 目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn" target="_blank">蓝鲸支付</a>
